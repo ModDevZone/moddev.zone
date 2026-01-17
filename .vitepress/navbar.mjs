@@ -1,7 +1,7 @@
 export default [
     {text: 'Guide to MDZ', link: '/docs/moddevzone'},
     {
-        text: 'Modding Minecraft',
+        text: 'Modding Guides',
         items: [
             {text: 'Modding Minecraft', link: '/docs/guides/minecraft'},
             {text: 'Modding Hytale', link: '/docs/guides/hytale'},

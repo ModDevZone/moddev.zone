@@ -4,7 +4,7 @@ export default {
     lang: 'en-GB',
     title: 'Mod Dev Zone',
     icon: 'logos/mdz-logo.png',
-    description: 'The home of the Mod Dev Zone community, modding together in the zone!',
+    description: 'Modding together in the zone!',
     cleanUrls: true,
     srcDir: './src',
 
@@ -52,33 +52,12 @@ export default {
 
         // The sidebar holds quick jump-to links to different parts of the same page.
         sidebar: {
-            '/docs/guides/moddevzone': [
-                {
-                    text: 'Mod Dev Zone Documents',
-                    items: [
-                        {text: 'Getting Started', link: '/docs/moddevzone'}
-                    ]
-                }
-            ],
-
             '/docs/moddevzone/': [
                 {
                     text: 'Mod Dev Zone',
                     items: [
                         {text: 'About Us', link: '/docs/moddevzone'},
-                        {text: 'Code of Conduct', link: '/docs/moddevzone/coc'},
-                        {text: 'Discord Tips', link: '/docs/moddevzone/discord-tips'}
-                    ]
-                }
-            ],
-
-            '/docs/guides/hytale': [
-                {
-                    text: 'Hytale Modding Guides',
-                    items: [
-                        {text: 'Getting Started', link: '/docs/guides/hytale/'},
-                        {text: 'Useful Resources', link: '/docs/guides/hytale/resources'},
-                        {text: 'Build System', link: '/docs/guides/hytale/build-system'}
+                        {text: 'Code of Conduct', link: '/docs/moddevzone/coc'}
                     ]
                 }
             ],

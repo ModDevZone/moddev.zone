@@ -1,12 +1,18 @@
 export default [
-    {text: 'Guide to MDZ', link: '/docs/moddevzone'},
     {
-        text: 'Modding Guides',
+        text: 'Guides',
         items: [
-            {text: 'Modding Minecraft', link: '/docs/guides/minecraft'},
-            {text: 'Modding Hytale', link: '/docs/guides/hytale'},
-            ]
+            {text: 'Guide to MDZ', link: '/docs/moddevzone'},
+            {text: 'Discord Tips', link: '/docs/discord-tips'},
+            {text: 'Modding Minecraft', link: '/docs/guides/minecraft'}
+        ]
     },
-    {text: 'Ban Appeals', link: 'https://appeals.moddev.zone'},
-    {text: 'WinterJam', link: 'https://winterjam.tophatcat.dev'}
+    {
+        text: 'Other Friendly Spaces',
+        items: [
+            {text: 'Hytale Mods Discord', link: 'https://discord.hytale-mods.info'},
+            {text: 'ModDevCafe Discord', link: 'https://discord.gg/T5MGNBB'},
+        ]
+    },
+    {text: 'Ban Appeals', link: 'https://appeals.moddev.zone'}
 ];

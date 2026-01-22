@@ -56,7 +56,7 @@ export default {
                 {
                     text: 'Mod Dev Zone',
                     items: [
-                        {text: 'About Us', link: '/docs/moddevzone'},
+                        {text: 'Guide to MDZ', link: '/docs/moddevzone'},
                         {text: 'Code of Conduct', link: '/docs/moddevzone/coc'}
                     ]
                 }

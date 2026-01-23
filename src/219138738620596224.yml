@@ -1,0 +1,85 @@
+- author:
+    name: "Mod Dev Zone"
+    avatar: /mod_dev_zone_avatar.png
+  embeds:
+    - title: Welcome to the Mod Dev Zone!
+      description: |-
+        Welcome to the official [Mod Dev Zone](<https://moddev.zone>) Discord server!
+        Here you can find our general rules, but first we'd like you to read our [Code of Conduct](<https://moddev.zone/docs/moddevzone/coc>) which staff will refer to when doing their duties.
+        Once you have read that you can also find our [Guide to MDZ](<https://moddev.zone/docs/moddevzone/>) which will help you get started in our community!
+      color: "#2AF527"
+    - title: Rule 1. Do not DM anyone without asking for permission first.
+      description: |-
+        Modding questions and/or requests will *not* be answered in DMs, try to resolve issues in public channels first.
+        Make sure to ask people (preferably with a ping) before DMing them or sending them a friend request, these are seen as spam and/or potential scammer activity and will be investigated.
+      color: "#F5A142"
+    - title: Rule 2. No spamming or flooding the chat.
+      description: |-
+        Spamming is defined as sending multiple messages in a short period of time, or sending messages that are irrelevant to the current topic of discussion.
+        This includes excessive use of emojis, gifs, or images.
+      color: "#F5A142"
+    - title: Rule 3. Keep topics in their respective channels.
+      description: |-
+        Each channel has a specific purpose, so please make sure to keep your messages relevant to the channel's topic.
+        Off-topic messages may be deleted by staff and you will be asked to move to the relevant channel.
+      color: "#F5A142"
+    - title: Rule 4. Be respectful of others.
+      description: |-
+        Treat others with respect and kindness.
+        Harassment, discrimination, or hate speech of any kind will not be tolerated.
+        This includes but is not limited to racism, sexism, homophobia, transphobia, ableism and more.
+        Please also try to respect others wishes of not being pinged repeatedly.
+      color: "#F5A142"
+    - title: Rule 5. No advertising or self-promotion.
+      description: |-
+        Advertising or self-promotion is not allowed in most channels unless explicitly permitted by staff.
+        This includes but is not limited to promoting your own Discord server, YouTube channel, Twitch stream, or other social media accounts.
+        There are small exceptions to this rule, such as the <#250196786503876608> channel, showcase style channels and personal channels.
+      color: "#F5A142"
+    - title: Rule 6. Follow Discord's Terms of Service and Community Guidelines.
+      description: |-
+        All members must adhere to Discord's [Terms of Service](<https://discord.com/terms>) and [Community Guidelines](<https://discord.com/guidelines>).
+        Any behavior that violates these terms will not be tolerated.
+      color: "#F5A142"
+    - title: Rule 7. No hateful or NSFW content.
+      description: |-
+        Sharing or discussing hateful, violent, or NSFW (Not Safe For Work) content is strictly prohibited.
+        This includes but is not limited to explicit images, videos, or links to such content.
+      color: "#F5A142"
+    - title: Rule 8. Do not post or promote illegal activities or content.
+      description: |-
+        Sharing or promoting illegal activities or content is strictly prohibited.
+        This includes but is not limited to piracy, hacking, or any other activities that violate local, national, or international laws.
+      color: "#F5A142"
+    - title: Rule 9. Please use English in this server.
+      description: |-
+        To ensure that everyone can understand and participate in conversations, please use English in this server.
+        We understand that not everyone is fluent in English, so please be patient and respectful of others who may struggle with the language.
+      color: "#F5A142"
+- content: __
+  author:
+    name: "Mod Dev Zone"
+    avatar: /mod_dev_zone_avatar.png
+    embeds:
+      - title: Moderation 3 Strikes Policy
+        description: |-
+          Our moderation team follows a 3 strikes policy for rule violations, each strike will be logged and tracked by the staff team.
+          The consequences for each strike are as follows:
+          - **1st Strike:** Warning - A written warning will be issued to the member via the server.
+          - **2nd Strike:** Temporary Timeout/Kick - Depending on the severity of the violation, the member may be temporarily muted or kicked from the server for a set period of time.
+          - **3rd Strike:** Server Ban - If a member receives a third strike, they will be banned from the server.
+          Bans can be appealed via the ban appeal form found on our website, however should you repeatedly break rules your ban may very well become permanent.
+          
+          If you believe that a staff member has acted unfairly or inappropriately, please reach out to another member of the staff team report your concerns.
+        color: "#2AF527"
+      - title: Thank you for reading the rules!
+        description: |-
+          By being a member of this server, you agree to follow these rules and any additional guidelines set forth by the staff.
+          Failure to comply with these rules may result in warnings, temporary or permanent bans from the server.
+          
+          If you have any questions or concerns about the rules or their enforcement, please reach out to us.
+        color: "#2AF527"
+      - title: Need an invite?
+        description: |-
+          If you need a new invite to the server, you can use this one https://discord.moddev.zone
+        color: "#2AF527"
